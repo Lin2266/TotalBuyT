@@ -54,7 +54,7 @@ public class RDBConnection {
         if (pw != null) {
             pwd = pw;
         } else {
-            pwd = "mysql";
+            pwd = "123456";
         }
     }
 
